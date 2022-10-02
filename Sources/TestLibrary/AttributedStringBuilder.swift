@@ -6,7 +6,7 @@
 //
 
 import Foundation
-class AttributedStringBuilder {
+public class AttributedStringBuilder {
     typealias Attributes = [NSAttributedString.Key : Any]
 
     private let string = NSMutableAttributedString(string: "")

@@ -33,4 +33,8 @@ public class HamburgerBuilder {
                          sauce: sauces,
                          toppings: toppings)
     }
+    
+    public init() {
+        
+    }
 }
